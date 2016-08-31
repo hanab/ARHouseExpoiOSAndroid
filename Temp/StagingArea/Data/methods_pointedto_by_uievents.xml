@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ButtonID">
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
+		</type>
+		<type fullname="ButtonScript">
+			<method name="PreviousHouse"/>
+			<method name="NextHouse"/>
+			<method name="BackToMenu"/>
+		</type>
+	</assembly>
+</linker>

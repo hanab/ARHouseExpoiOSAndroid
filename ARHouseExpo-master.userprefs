@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonID.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="113" Column="12" />
+      <File FileName="Assets/Scripts/ResetPosition.cs" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/Math3d.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeTextScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HouseID.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SmoothCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonID.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scripts/ButtonIdAbsorber.cs" Line="9" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
