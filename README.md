@@ -1,3 +1,5 @@
 # ARHouseExpoiOSAndroid
 ## Agumented reality house exhibition application
-### The application shows 6 houses 
+### Introduction
+The application was made using Unity and Vuforia Agumented Reality Plugin for iOS and Android.It shows 6 houses and it has a user interface to navigate through the houses
+<img src=" http://hanabelete.com/arHouseApp.jpg" width="350" height="500">
